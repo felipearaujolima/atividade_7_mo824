@@ -1,0 +1,8 @@
+Metodo,Tempo (s)
+RouteFirstClusterSecond,0.0225
+Savings,0.14875
+Insertion,2.66125
+TabuSearch_Simples,1105.5925
+TabuSearch_Diversificacao,1118.1125
+TabuSearch_Intensificacao,1120.6275
+TabuSearch_Completo,1122.675
